@@ -1,0 +1,16 @@
+ID_Producto,Producto,Sucursal,Categoria,Cantidad_Stock,Precio_Unitario_USD
+101,Laptop HP ProBook,San Salvador,Electrónica,45,750.00
+102,Silla Ergonómica,Santa Ana,Mobiliario,120,85.50
+103,Monitor Dell 27",San Miguel,Electrónica,30,220.00
+104,Escritorio de Madera,La Libertad,Mobiliario,15,150.00
+105,Impresora Epson,Sonsonate,Electrónica,25,180.00
+106,Teclado Mecánico,San Salvador,Accesorios,80,45.00
+107,Mouse Inalámbrico,Santa Ana,Accesorios,150,25.00
+108,Laptop HP ProBook,San Miguel,Electrónica,20,750.00
+109,Silla Ergonómica,La Libertad,Mobiliario,40,85.50
+110,Monitor Dell 27",Sonsonate,Electrónica,10,220.00
+111,Lámpara de Escritorio,San Salvador,Mobiliario,60,30.00
+112,Disco Duro Externo 1TB,Santa Ana,Electrónica,90,65.00
+113,Teclado Mecánico,San Miguel,Accesorios,35,45.00
+114,Mouse Inalámbrico,La Libertad,Accesorios,100,25.00
+115,Escritorio de Madera,Sonsonate,Mobiliario,8,150.00
